@@ -1,0 +1,5 @@
+- configurar el login con auth0
+
+
+
+Working: Configurar firebase para los usuarios
