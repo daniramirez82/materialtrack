@@ -1,5 +1,1 @@
-- configurar el login con auth0
-
-
-
-Working: Configurar firebase para los usuarios
+-en salidas limpiar la ruta como guarda hacerlo asi: Salidas>dia>cliente>material>codigo material>{codigo material, nombre, cantidad}
